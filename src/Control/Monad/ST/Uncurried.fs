@@ -1,0 +1,21 @@
+let mkSTFn1 = fun (fn: obj) -> fn
+let mkSTFn2 = fun (fn: obj) -> fn
+let mkSTFn3 = fun (fn: obj) -> fn
+let mkSTFn4 = fun (fn: obj) -> fn
+let mkSTFn5 = fun (fn: obj) -> fn
+let mkSTFn6 = fun (fn: obj) -> fn
+let mkSTFn7 = fun (fn: obj) -> fn
+let mkSTFn8 = fun (fn: obj) -> fn
+let mkSTFn9 = fun (fn: obj) -> fn
+let mkSTFn10 = fun (fn: obj) -> fn
+
+let runSTFn1 = fun (fn: obj) -> fn
+let runSTFn2 = fun (fn: obj) -> fn
+let runSTFn3 = fun (fn: obj) -> fn
+let runSTFn4 = fun (fn: obj) -> fn
+let runSTFn5 = fun (fn: obj) -> fn
+let runSTFn6 = fun (fn: obj) -> fn
+let runSTFn7 = fun (fn: obj) -> fn
+let runSTFn8 = fun (fn: obj) -> fn
+let runSTFn9 = fun (fn: obj) -> fn
+let runSTFn10 = fun (fn: obj) -> fn
